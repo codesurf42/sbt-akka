@@ -1,0 +1,12 @@
+*.class
+*.log
+
+target
+project/project
+project/target
+.cache
+.classpath
+.idea
+.project
+.settings
+bin
